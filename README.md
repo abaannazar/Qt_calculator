@@ -26,10 +26,10 @@ pip install PySide6
 ## Usage
 
 1. Clone the repository or download the project files.
-2. Run the main Python script (e.g., `calculator.py`).
+2. Run the main Python script .
 
 ```bash
-python calculator.py
+python main.py
 ```
 
 The calculator window should appear, and you can start using it.
